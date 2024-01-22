@@ -1,0 +1,28 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.words": [
+        "Габрелянов",
+        "Гашпаров",
+        "Дебю",
+        "Дми́трий",
+        "Ду́бин",
+        "загадонного",
+        "именнованный",
+        "Калигари",
+        "Кастрю",
+        "киноперсонажем",
+        "Кирк",
+        "Макаревич",
+        "О’Райли",
+        "Полученый",
+        "Пчёлкина",
+        "Сетейкин",
+        "сиквеле",
+        "Fracton",
+        "gues",
+        "jshuckbot",
+        "PERSENT",
+        "PUNTATION"
+    ]
+}
