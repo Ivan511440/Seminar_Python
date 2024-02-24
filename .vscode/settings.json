@@ -35,5 +35,8 @@
         "PERSENT",
         "PUNTATION",
         "puple"
+    ],
+    "cSpell.enableFiletypes": [
+        "csv"
     ]
 }
